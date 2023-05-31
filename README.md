@@ -9,7 +9,7 @@ Fract-ol is a project developed as part of the curriculum at the 42 coding schoo
 - [Fractal Types](#fractal-types)
 - [Controls](#controls)
 - [Features](#features)
-- [Example Image](#example-image)
+- [Example](#example)
 
 ## Introduction
 
@@ -35,6 +35,9 @@ To install and run Fract-ol, follow these steps:
    ```
    make re
    ```
+<p align="center">
+   <img width="45%" src="https://github.com/MirkokriM/Fract-ol/blob/main/README.FILE/Fractol-make%20re.gif">
+</p>
 
 ## Usage
 
@@ -45,6 +48,9 @@ To launch the Fract-ol program, use the following command:
 Replace `[fractal_type]` with the desired fractal type (e.g., mandelbrot, julia, tribrot). 
 Replace `[window_resolution]` with the desired resolution(e.g, 480p, 720p, 2160p).
 - If no resolution is specified, it is automatically set to 1080p.
+<p align="center">
+   <img src="https://github.com/MirkokriM/Fract-ol/blob/main/README.FILE/Fractol_RESANDFUNC.gif">
+</p>
 
 ## Fractal Types
 
@@ -64,6 +70,10 @@ Once the program is launched, you can use the following controls to interact wit
 - **Color Schemes**: Press "X" or "C" to switch between different color schemes.
 - **Reset Fractal**: Press "R" key to to reset the fractal parameters.
 - **Exit**: Pres the "ESC" key or cross over the window's frame to close the window and finish the program cleanly.
+- **ONLY FOR JULIA**: With a mouse click on any point of the window the fractal changes the value of the complex constant used to calculate the set, making changes to the shape of the fractal.
+<p align="center">
+   <img src="https://github.com/MirkokriM/Fract-ol/blob/main/README.FILE/Fractol_the.kawaii.julia.gif">
+</p>
 
 ## Features
 
@@ -75,4 +85,11 @@ My Fract-ol provides the following features:
 - Set the fractal window resolution as an additional parameter.
 - Good handling of errors due to missing or incorrect input parameters.
 
-## Example Image
+## Example
+
+- Color Shift
+<p align="center">
+   <img src="https://github.com/MirkokriM/Fract-ol/blob/main/README.FILE/Fractol_color.shift.gif">
+</p>
+
+- Good Fractals
