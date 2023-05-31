@@ -57,7 +57,7 @@ My Fract-ol supports the following fractal types:
 
 Once the program is launched, you can use the following controls to interact with the fractal visualization:
 
-- **Help**: Use the "H" key to bring up a small U.I for the command list.
+- **Help**: Use the "H" key to bring up a small U.I for the command list and a iteration counter.
 - **Navigation**: Use the arrow keys to move the fractal in different directions.
 - **Zoom**: Scroll up or down to zoom in or out of the fractal.
 - **Iterations**: Press the "+" or "-" key to increase or decrease the number of iterations for generating the fractal.
