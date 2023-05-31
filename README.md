@@ -92,4 +92,4 @@ My Fract-ol provides the following features:
    <img src="https://github.com/MirkokriM/Fract-ol/blob/main/README.FILE/Fractol_color.shift.gif">
 </p>
 
-- Good Fractals
+- Beautiful Fractals To Save
