@@ -91,5 +91,3 @@ My Fract-ol provides the following features:
 <p align="center">
    <img src="https://github.com/MirkokriM/Fract-ol/blob/main/README.FILE/Fractol_color.shift.gif">
 </p>
-
-- Beautiful Fractals To Save
